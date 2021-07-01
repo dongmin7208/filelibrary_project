@@ -1,1 +1,16 @@
 # filelibrary_project
+![구현1](https://user-images.githubusercontent.com/85716180/124089042-7babcd00-da8e-11eb-84c6-4ea2993c5f2a.jpg)
+
+![구현2](https://user-images.githubusercontent.com/85716180/124089059-81a1ae00-da8e-11eb-9636-1312938ee159.jpg)
+![구현3](https://user-images.githubusercontent.com/85716180/124089067-836b7180-da8e-11eb-81fc-451036381c2d.jpg)
+![구현4](https://user-images.githubusercontent.com/85716180/124089072-849c9e80-da8e-11eb-98b2-265871eda0d6.jpg)
+![구현5](https://user-images.githubusercontent.com/85716180/124089085-85cdcb80-da8e-11eb-94e1-d4147e3c4453.jpg)
+![구현6](https://user-images.githubusercontent.com/85716180/124089092-88302580-da8e-11eb-8e66-7b04424c2c42.jpg)
+![구현7](https://user-images.githubusercontent.com/85716180/124089099-89615280-da8e-11eb-9d3b-35888d3f1bcd.jpg)
+![구현8](https://user-images.githubusercontent.com/85716180/124089104-8a927f80-da8e-11eb-8e00-024752ab024a.jpg)
+![DB1](https://user-images.githubusercontent.com/85716180/124089116-8d8d7000-da8e-11eb-885e-8ac4cefe3471.jpg)
+![DB2](https://user-images.githubusercontent.com/85716180/124089124-8f573380-da8e-11eb-8233-5ec9d1425aab.jpg)
+![classdiagram](https://user-images.githubusercontent.com/85716180/124089136-92522400-da8e-11eb-98f9-e0b8dbb20b51.png)
+![UI 프로토 타이핑](https://user-images.githubusercontent.com/85716180/124089140-93835100-da8e-11eb-83fc-fa50e4f1f819.jpg)
+![USECASE](https://user-images.githubusercontent.com/85716180/124089147-94b47e00-da8e-11eb-929d-435e24294652.jpg)
+![시퀀스다이어그램](https://user-images.githubusercontent.com/85716180/124089150-954d1480-da8e-11eb-8c9f-777eb683aed3.jpg)

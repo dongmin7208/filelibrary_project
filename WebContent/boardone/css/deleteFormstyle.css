@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+section{
+    padding-top: 30px;
+    width:300px;
+    margin: auto;
+    left:0; top:0; right:0; bottom:0;
+}
+table{
+    text-align:center;
+    border-collapse:collapse;
+}
+th{
+    color: #ffffff;
+    border:1px solid #333;
+    background-color: #80ff80; 
+    height:30px;
+}
+td {
+    border:1px solid #00ff40;
+    text-align:center;
+    width:300px;    
+    height:30px;
+    border:1px solid #80ff80;
+}

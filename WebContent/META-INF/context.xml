@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name ="jdbc/myOracle"
+			auth="Container"
+			driverClassName="oracle.jdbc.driver.OracleDriver"
+			type="javax.sql.DataSource"
+			url="jdbc:oracle:thin:@192.168.44.128:1521:orcl"
+			username="c##tester2"
+			password="1234"
+			initialSize="50"
+			maxTotal="20"
+			maxIdle="10"
+			maxWaitMillis="10000" 		/>
+<!-- 
+	initialSize
+		:최초 시점에 getConnection() 를 통해 커넥션 풀에 채워 넣을 커넥션 개수 (default = 0)
+	maxTotal (1. x에서는 maxActive):
+		: 동시에 사용할 수 있는 최대 커넥션 개수 (default = 8)
+	maxIdle
+		: Connection pool에 반납할 때 최대로 유지될 수 있는 커넥션 개수 (default = 0)
+	minIdle
+		: 최소한으로 유지할 커넥션 개수 (default = 0)
+	maxWaitMillis (1.x에서는 maxWait)
+		:pool이 고갈되었을 경우 최대 대기 시간 ( ms단위, default = -1 = 무한정)
+ -->
+</Context>
